@@ -1,1 +1,1 @@
-# ForexConverter
+# CurrencyConverter-WPF App
